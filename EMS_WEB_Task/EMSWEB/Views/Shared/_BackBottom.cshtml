@@ -1,0 +1,52 @@
+﻿@*<div class="footer">
+        <center>
+            <div>
+                <strong>Copyright</strong>SOFT Pvt Ltd &copy; @DateTime.Now.Year
+            </div>
+        </center>
+
+    </div>*@
+<!--Zoom Image modal-->
+<div id="myImageModal" class="modal myImgModal" onclick="CloseImgModal()">
+    <span class="close">&times;</span>
+    <img id="img01" class="ItemImgZoomStyle">
+    <div id="caption"></div>
+</div>
+
+
+
+<!--update password modal-->
+<div class="modal in" id="updatepassmodal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title" id="">Update Password</h4>
+            </div>
+            <div class="modal-body">
+                <form id="Web_User" name="Web_User">
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <input type="hidden" id="Id" name="Id" value="">
+                            <label>Old Password</label>
+                            <input type="password" name="OldPassword" id="OldPassword" class="form-control" required="">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <label>New Password</label>
+                            <input type="password" name="NewPassword"  id="NewPassword" class="form-control" required="">
+                        </div>
+                    </div>
+                </form>
+                <div class="form-group ">
+                    <label id="updatepasserror" style="color:red;"></label>
+                    <br>
+                    <button type="button" class="btn btn-default pull-right" onclick="CloseMeUpdatePass()">Close</button> &nbsp;
+                    <a href="#" onclick="UpdateWebUserPass()" class="btn btn-primary pull-right">Update</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+D:\upworktask\EMS.Core\bin\Debug\net6.0\EMS.Core.deps.json
+D:\upworktask\EMS.Core\bin\Debug\net6.0\EMS.Core.dll
+D:\upworktask\EMS.Core\bin\Debug\net6.0\EMS.Core.pdb
+D:\upworktask\EMS.Core\bin\Debug\net6.0\EMS.Data.dll
+D:\upworktask\EMS.Core\bin\Debug\net6.0\EMS.Data.pdb
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.csproj.AssemblyReference.cache
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.AssemblyInfoInputs.cache
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.AssemblyInfo.cs
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.csproj.CoreCompileInputs.cache
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.csproj.CopyComplete
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.dll
+D:\upworktask\EMS.Core\obj\Debug\net6.0\refint\EMS.Core.dll
+D:\upworktask\EMS.Core\obj\Debug\net6.0\EMS.Core.pdb
+D:\upworktask\EMS.Core\obj\Debug\net6.0\ref\EMS.Core.dll

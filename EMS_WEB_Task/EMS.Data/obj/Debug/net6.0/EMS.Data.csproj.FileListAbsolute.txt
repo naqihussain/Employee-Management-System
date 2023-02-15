@@ -1,0 +1,14 @@
+D:\upworktask\EMS.Data\bin\Debug\net6.0\EMS.Data.deps.json
+D:\upworktask\EMS.Data\bin\Debug\net6.0\EMS.Data.runtimeconfig.json
+D:\upworktask\EMS.Data\bin\Debug\net6.0\EMS.Data.dll
+D:\upworktask\EMS.Data\bin\Debug\net6.0\EMS.Data.pdb
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.csproj.AssemblyReference.cache
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.AssemblyInfoInputs.cache
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.AssemblyInfo.cs
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.csproj.CoreCompileInputs.cache
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.dll
+D:\upworktask\EMS.Data\obj\Debug\net6.0\refint\EMS.Data.dll
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.pdb
+D:\upworktask\EMS.Data\obj\Debug\net6.0\EMS.Data.genruntimeconfig.cache
+D:\upworktask\EMS.Data\obj\Debug\net6.0\ref\EMS.Data.dll
